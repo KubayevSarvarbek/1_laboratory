@@ -1,0 +1,2 @@
+matn = str(input())    # bu yerda faqat input() funksiyasining o'zidan foydalansa ham bo'ladi, chunki python dasturlash tilida turi ko'rsatilmay kiritilgan ma'lumot string deb qabul qilinadi
+print(len(matn))
